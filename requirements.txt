@@ -94,3 +94,7 @@ wrapt==1.15.0
 xarray==0.17.0
 xdg==6.0.0
 zipp==3.15.0
+
+flask
+flask-cors
+
