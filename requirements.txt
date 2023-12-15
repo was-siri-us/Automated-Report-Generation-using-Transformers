@@ -97,4 +97,4 @@ zipp==3.15.0
 
 flask
 flask-cors
-
+gunicorn
