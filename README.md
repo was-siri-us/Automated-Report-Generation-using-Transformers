@@ -1,4 +1,4 @@
-https://github.com/omar-mohamed/GPT2-Chest-X-Ray-Report-Generation/tree/master
+Re-implementation of the paper: https://www.sciencedirect.com/science/article/pii/S2352914821000472?via%3Dihub
 
 ![Screenshot 2024-01-17 123155](https://github.com/was-siri-us/chexnet/assets/116163817/363540ab-0ef5-43c7-b5e3-520f3bd156b7)
 
